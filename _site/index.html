@@ -32,9 +32,12 @@
 <link rel="canonical" href="/">
 
 <script>
-  document.addEventListener( 'DOMContentLoaded', function () {
-    new Splide( '#image-slider' ).mount();
-  } );
+ document.addEventListener( 'DOMContentLoaded', function () {
+  new Splide( '#image-slider', {
+		width : '100vw',
+		height: '100vh',
+  } ).mount();
+} );
 </script>
 
 <!-- Theming-->
@@ -218,13 +221,6 @@
           <th scope="row">May 15, 2021</th>
           <td>
             <a class="news-title" href="//archive-pandemic">Archiving The Pandemic</a>
-          </td>
-        </tr>
-      
-        <tr>
-          <th scope="row">Nov 23, 2021</th>
-          <td>
-            <a class="news-title" href="//archi-memes">Memes on Computer Architecture</a>
           </td>
         </tr>
       

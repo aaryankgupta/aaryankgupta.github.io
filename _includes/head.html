@@ -35,9 +35,12 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
 <script>
-  document.addEventListener( 'DOMContentLoaded', function () {
-    new Splide( '#image-slider' ).mount();
-  } );
+ document.addEventListener( 'DOMContentLoaded', function () {
+  new Splide( '#image-slider', {
+		width : '100vw',
+		height: '100vh',
+  } ).mount();
+} );
 </script>
 
 <!-- Theming-->
