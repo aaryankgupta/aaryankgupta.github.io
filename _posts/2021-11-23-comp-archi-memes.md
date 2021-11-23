@@ -15,10 +15,55 @@ We had a lot of fun creating these memes, hope you enjoy them :)
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-				<img src="https://i.imgur.com/h9O5kKp.jpg">
+				<img src="https://lostsam423.github.io/Memes/a.jpg">
 			</li>
 			<li class="splide__slide">
-				<img src="https://i.imgur.com/GZYducR.png">
+				<img src="https://lostsam423.github.io/Memes/b.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/c.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/d.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/e.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/f.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/g.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/h.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/i.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/j.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/k.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/l.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/m.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/n.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/o.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/p.jpg">
+			</li>
+            <li class="splide__slide">
+				<img src="https://lostsam423.github.io/Memes/q.jpg">
 			</li>
 		</ul>
   </div>
