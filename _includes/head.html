@@ -26,12 +26,19 @@
 
 <!-- Code Syntax Highlighting -->
 <link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/{{ site.highlight_theme }}.css" />
-
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.4/dist/js/splide.min.js"></script>
 <!-- Styles -->
 <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.4/dist/css/splide.min.css">
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+
+<script>
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-slider' ).mount();
+  } );
+</script>
 
 <!-- Theming-->
 {% if site.enable_darkmode %}
